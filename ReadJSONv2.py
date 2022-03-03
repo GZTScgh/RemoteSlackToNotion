@@ -31,7 +31,7 @@ with open("avengers-team.json", "r") as infile:             #define file
             from encodings import utf_8
             import json
             import requests
-            token = 'secret_2Sea7tpK6kK2XBKIyys2MTMeTZJZqHujzgMYDmceAn9'
+            token = 'redacted'
 
             databaseID ='38dc0ca1b4cf41db98ae9f1b17933081'
 
